@@ -39,7 +39,7 @@ I am a Frontend Developer.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools:
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
